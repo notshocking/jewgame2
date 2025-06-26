@@ -1,21 +1,28 @@
-
 let data, score = 0, total = 0, currentPair;
 
 async function load() {
   data = await (await fetch('data.json')).json();
   nextRound();
 }
-function shuffle(a) { return a.sort(() => Math.random() - 0.5); }
 
 function nextRound() {
   document.getElementById('feedback').innerText = '';
   document.getElementById('nextBtn').style.display = 'none';
 
-  const [a, b] = shuffle(data).slice(0, 2);
-  currentPair = [a, b];
-  const ord = shuffle([0, 1]);
+  // Separate Jewish and Gentile players
+  const jewishPeople = data.filter(p => p.isJewish);
+  const gentilePeople = data.filter(p => !p.isJewish);
+
+  // Pick one random person from each group
+  const randomJewish = jewishPeople[Math.floor(Math.random() * jewishPeople.length)];
+  const randomGentile = gentilePeople[Math.floor(Math.random() * gentilePeople.length)];
+
+  // Shuffle the order so Jewish person isn't always on the same side
+  currentPair = [randomJewish, randomGentile].sort(() => Math.random() - 0.5);
+
+  // Render the two choices
   document.querySelectorAll('.choice').forEach((div, i) => {
-    const person = currentPair[ord[i]];
+    const person = currentPair[i];
     div.innerHTML = `
       <img src="${person.imageUrl}" alt="${person.name}">
       <div>${person.name}</div>`;
@@ -33,6 +40,7 @@ function handleGuess(person, div) {
   } else {
     div.classList.add('wrong');
     feedbackText(`❌ Nope — ${person.name} is not Jewish.`, person);
+    // Highlight the correct Jewish choice
     const correctDiv = [...document.querySelectorAll('.choice')].find(d => {
       const img = d.querySelector('img').src;
       return currentPair.find(p => p.imageUrl === img).isJewish;
