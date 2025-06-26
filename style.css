@@ -1,0 +1,9 @@
+
+body { font-family: sans-serif; text-align: center; margin: 20px; }
+#choices { display: flex; justify-content: center; margin-top: 20px; }
+.choice { margin: 0 10px; cursor: pointer; }
+.choice img { width: 200px; height: 200px; object-fit: cover; border: 4px solid transparent; }
+.choice.correct img { border-color: green; }
+.choice.wrong img { border-color: red; opacity: 0.6; }
+#feedback { margin: 20px; font-size: 1.2em; }
+button { padding: 10px 20px; font-size: 1em; }
