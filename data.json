@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Albert Einstein",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Albert_Einstein_1921_by_F_Schmutzer.jpg",
+    "isJewish": true,
+    "bio": "Theoretical physicist, developed the theory of relativity, Jewish by heritage.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_1921_by_F_Schmutzer.jpg"
+  },
+  {
+    "name": "Sigmund Freud",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Sigmund_Freud_1926.jpg",
+    "isJewish": true,
+    "bio": "Founder of psychoanalysis, Austrian neurologist, of Jewish heritage.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sigmund_Freud_1926.jpg"
+  },
+  {
+    "name": "Ruth Bader Ginsburg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Ruth_Bader_Ginsburg_2016_portrait.jpg",
+    "isJewish": true,
+    "bio": "U.S. Supreme Court Justice, advocate for gender equality, Jewish background.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruth_Bader_Ginsburg_2016_portrait.jpg"
+  },
+  {
+    "name": "Winston Churchill",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Churchill_portrait_NYP_45063.jpg",
+    "isJewish": false,
+    "bio": "British Prime Minister during WWII, Anglican Christian.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Churchill_portrait_NYP_45063.jpg"
+  },
+  {
+    "name": "Nikola Tesla",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/N.Tesla.JPG",
+    "isJewish": false,
+    "bio": "Inventor and electrical engineer, Serbian-American, not Jewish.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:N.Tesla.JPG"
+  },
+  {
+    "name": "Marie Curie",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Marie_Curie_c1920.jpg",
+    "isJewish": false,
+    "bio": "Pioneer in radioactivity, Polish-French scientist, Catholic background.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Marie_Curie_c1920.jpg"
+  },
+  {
+    "name": "Leonard Bernstein",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Leonard_Bernstein_1971.JPG",
+    "isJewish": true,
+    "bio": "Conductor and composer, Jewish heritage, led the New York Philharmonic.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leonard_Bernstein_1971.JPG"
+  },
+  {
+    "name": "Charlie Chaplin",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Charlie-Chaplin.jpg",
+    "isJewish": false,
+    "bio": "Iconic silent film actor and director, English background (not Jewish).",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charlie-Chaplin.jpg"
+  },
+  {
+    "name": "Frida Kahlo",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Frida_Kahlo_%281940%29.jpg",
+    "isJewish": false,
+    "bio": "Mexican painter, Catholic upbringing.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Frida_Kahlo_(1940).jpg"
+  },
+  {
+    "name": "Elie Wiesel",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Elie_Wiesel_%28cropped%29.jpg",
+    "isJewish": true,
+    "bio": "Holocaust survivor, Nobel Laureate, Jewish writer and activist.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elie_Wiesel_(cropped).jpg"
+  },
+  {
+    "name": "Natalie Portman",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Natalie_Portman_Cannes_2015_5.jpg",
+    "isJewish": true,
+    "bio": "Israeli-American actress and director, known for roles in 'Black Swan' and 'Star Wars'.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Natalie_Portman_Cannes_2015_5.jpg"
+  },
+  {
+    "name": "Mark Zuckerberg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Mark_Zuckerberg_F8_2019_Keynote_%28cropped_2%29.jpg",
+    "isJewish": true,
+    "bio": "Co-founder and CEO of Meta (Facebook), of Jewish heritage.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mark_Zuckerberg_F8_2019_Keynote_(cropped_2).jpg"
+  },
+  {
+    "name": "Gal Gadot",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Gal_Gadot_2018.jpg",
+    "isJewish": true,
+    "bio": "Israeli actress and former Miss Israel, known for playing Wonder Woman.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gal_Gadot_2018.jpg"
+  },
+  {
+    "name": "Drake",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Drake_July_2016.jpg",
+    "isJewish": true,
+    "bio": "Canadian rapper, singer, and actor, raised by a Jewish mother.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Drake_July_2016.jpg"
+  },
+  {
+    "name": "Adam Sandler",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Adam_Sandler_Cannes_2017_2.jpg",
+    "isJewish": true,
+    "bio": "Comedian and actor known for Jewish humor and films like 'Uncut Gems'.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Adam_Sandler_Cannes_2017_2.jpg"
+  },
+  {
+    "name": "Sarah Silverman",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Sarah_Silverman_by_Gage_Skidmore.jpg",
+    "isJewish": true,
+    "bio": "American comedian and actress, frequently references Jewish identity in her work.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sarah_Silverman_by_Gage_Skidmore.jpg"
+  },
+  {
+    "name": "Noam Chomsky",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/69/Noam_Chomsky_2017.jpg",
+    "isJewish": true,
+    "bio": "Linguist, philosopher, and political commentator, known for his critiques of media and U.S. policy.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Noam_Chomsky_2017.jpg"
+  },
+  {
+    "name": "Sacha Baron Cohen",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/de/Sacha_Baron_Cohen_2016.jpg",
+    "isJewish": true,
+    "bio": "British actor and satirist behind characters like Borat and Ali G.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sacha_Baron_Cohen_2016.jpg"
+  },
+  {
+    "name": "Scarlett Johansson",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/28/Scarlett_Johansson_C%C3%A9sar_2014.jpg",
+    "isJewish": true,
+    "bio": "American actress known for her roles in the Marvel franchise, of Jewish descent.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_C%C3%A9sar_2014.jpg"
+  },
+  {
+    "name": "Elon Musk",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Elon_Musk_Royal_Society_%28crop2%29.jpg",
+    "isJewish": false,
+    "bio": "CEO of Tesla and SpaceX, South African-born entrepreneur, not Jewish.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elon_Musk_Royal_Society_(crop2).jpg"
+  },
+  {
+    "name": "Taylor Swift",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Taylor_Swift_3_-_2019_by_Glenn_Francis.jpg",
+    "isJewish": false,
+    "bio": "American singer-songwriter, raised in a Christian household.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taylor_Swift_3_-_2019_by_Glenn_Francis.jpg"
+  },
+  {
+    "name": "Barack Obama",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg",
+    "isJewish": false,
+    "bio": "44th U.S. President, Christian background, not Jewish.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:President_Barack_Obama.jpg"
+  },
+  {
+    "name": "Emma Watson",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Emma_Watson_2013.jpg",
+    "isJewish": false,
+    "bio": "British actress known for 'Harry Potter', not Jewish.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emma_Watson_2013.jpg"
+  },
+  {
+    "name": "Keanu Reeves",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Keanu_Reeves_by_Gage_Skidmore_2.jpg",
+    "isJewish": false,
+    "bio": "Actor known for 'The Matrix' and 'John Wick', not Jewish.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Keanu_Reeves_by_Gage_Skidmore_2.jpg"
+  },
+  {
+    "name": "Donald Trump",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Donald_Trump_official_portrait.jpg",
+    "isJewish": false,
+    "bio": "45th U.S. President, Christian background, not Jewish.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Donald_Trump_official_portrait.jpg"
+  },
+  {
+    "name": "Zendaya",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Zendaya_by_Gage_Skidmore.jpg",
+    "isJewish": false,
+    "bio": "Actress and singer, known for 'Euphoria', not Jewish.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zendaya_by_Gage_Skidmore.jpg"
+  },
+  {
+    "name": "Greta Thunberg",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Greta_Thunberg_2019.jpg",
+    "isJewish": false,
+    "bio": "Swedish climate activist, Lutheran background.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Greta_Thunberg_2019.jpg"
+  },
+  {
+    "name": "Shakira",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Shakira_at_2009_We_Day.jpg",
+    "isJewish": false,
+    "bio": "Colombian pop star with Lebanese and Spanish roots, not Jewish.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shakira_at_2009_We_Day.jpg"
+  },
+  {
+    "name": "Ben Shapiro",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Ben_Shapiro_by_Gage_Skidmore.jpg",
+    "isJewish": true,
+    "bio": "Political commentator, Orthodox Jewish background.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ben_Shapiro_by_Gage_Skidmore.jpg"
+  },
+  {
+    "name": "Jon Stewart",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Jon_Stewart_by_Gage_Skidmore_2.jpg",
+    "isJewish": true,
+    "bio": "Comedian and former host of 'The Daily Show', Jewish upbringing.",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jon_Stewart_by_Gage_Skidmore_2.jpg"
+  }
+]
